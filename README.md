@@ -1,6 +1,6 @@
 # WeatherNow
 
-**Website:** [https://your-vercel-domain.vercel.app](https://your-vercel-domain.vercel.app)  
+**Website:** [[https://your-vercel-domain.vercel.app].(https://weathernow-sand.vercel.app/))  ]
 
 WeatherNow Premium adalah aplikasi web **satu halaman (one-page)** untuk menampilkan informasi cuaca secara realtime, lengkap dengan **forecast 3 hari**, **chart suhu**, **unit converter**, **dark mode**, dan **history pencarian**.  
 
