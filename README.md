@@ -1,4 +1,4 @@
-# WeatherNow Premium
+# WeatherNow
 
 **Website:** [https://your-vercel-domain.vercel.app](https://your-vercel-domain.vercel.app)  
 
